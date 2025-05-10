@@ -37,7 +37,7 @@ To run the project with Docker:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/oleksissuper/redis-cache-fastapi
+    git clone https://github.com/gardev1380/redis-cache-fastapi
     cd redis-cache-fastapi
     ```
 
