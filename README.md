@@ -55,7 +55,7 @@ This command will start both the FastAPI server and a Redis instance.
 - **`GET /cache-redis`**: Returns the result of a slow process, using Redis to cache the response for faster subsequent retrieval.
 
 ## Example Usage
-
+ 
 You can use tools like **cURL** or **Postman** to interact with the API:
 
 - To make a request to the non-cache endpoint:
